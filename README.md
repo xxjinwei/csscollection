@@ -5,7 +5,7 @@
 
 2. [colors.css](https://github.com/mrmrs/colors)
 
-3. [animate.css]('https://github.com/daneden/animate.css)
+3. [animate.css](https://github.com/daneden/animate.css)
 
 4. [hover.css](https://github.com/IanLunn/Hover)
 
